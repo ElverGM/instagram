@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Grey+Qo&family=Roboto+Slab:wght@500&display=swap');
+
+
+textarea{
+  width: 100%;
+}
+
+.btn-primary{
+background-color: green !important;
+border-color: slategrey !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+background-color:slategrey !important;
+border-color: slategrey !important;
+}
+
+.top{
+  font-family: 'Dancing Script';
+}
+
+.right{
+  float: right;
+}
