@@ -22,3 +22,10 @@ border-color: slategrey !important;
 .right{
   float: right;
 }
+
+#img {
+
+  height: 2px; 
+  width: 2px;
+
+}
